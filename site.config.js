@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log-service`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `C.V`,
+      href: "https://my.surfit.io/w/469412511",
     },
   ],
   // blog setting (required)
