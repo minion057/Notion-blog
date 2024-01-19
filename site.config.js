@@ -6,9 +6,9 @@ const CONFIG = {
     role: "AI developer",
     bio: "공부하자!",
     email: "getit3981@gmail.com",
-    //linkedin: "none",
+    linkedin: "",
     github: "minion057",
-    //instagram: "none",
+    instagram: "",
   },
   projects: [
     {
